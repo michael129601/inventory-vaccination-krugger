@@ -21,7 +21,7 @@ Microservicio para gestionar el historial de vacunación de empleados
 # Documentacion:
 
 Para revisar la documentacion oficicial del microservicio puede acceder a la siguiente url:
-- http://localhost:8000/api/swagger-ui/index.html
+- http://localhost:8000/api/swagger-ui/index.html#/
 
 # Modo de uso:
 - El microservicio disponibiliza las siguientes rutas:
